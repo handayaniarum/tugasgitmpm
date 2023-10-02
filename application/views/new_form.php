@@ -10,7 +10,7 @@
 		<?php $this->load->view('_partials/navbar.php'); ?>
 
 		<div class="tittle">
-			<h2>Tambah Data Buku</h2>
+			<h2>Tambah Buku</h2>
 		</div>
 
 		<div class="isian">
